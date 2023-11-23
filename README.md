@@ -1,10 +1,10 @@
 # cba_final
 
-A new Flutter project.
+Technology stack: Flutter + Firebase
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is created using Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
